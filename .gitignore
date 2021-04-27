@@ -1,0 +1,6 @@
+data/*
+output/*
+output_trt/*
+checkpoints/*
+deploy/*.onnx
+deploy/*.trt
